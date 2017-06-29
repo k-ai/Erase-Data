@@ -1,6 +1,6 @@
 **K SQUARE SOFTWARE DEVELOPMENT LTD. END USER LICENSE AGREEMENT - ERASEDATA SOFTWARE**
 
-**IMPORTANT: READ CAREFULLY BEFORE DOWNLOADING AND/OR USING A COPY OF THE ERASEDATA SOFTWARE **
+**IMPORTANT: READ CAREFULLY BEFORE DOWNLOADING AND/OR USING A COPY OF THE ERASEDATA SOFTWARE**
 
 This document is a legal agreement between you (an individual or Organization (as defined below)) and K Square Software Development Ltd. (the "**Licensor**"), and govern your use of EraseData Software (the "**Software**").  By downloading and/or using the Software, you agree to be bound by this License and its terms. If you do not agree to any of the provisions as set forth in this License, you have no right to download and/or use the Software, or any part thereof. 
 
@@ -8,7 +8,7 @@ If you are acting on behalf of an organization and/or a company and/or any regis
 
 The Licensor reserves the right to change, add to, delete a portion of, or otherwise modify this License, from time to time, IN its sole discretion, both as part of a Software update or as a general change.  The Licensor will use the Software updates to notify you of any such changes. You acknowledge that any continued use of the Software by you will constitute your express agreement to abide by and be bound to the revised License terms.
 
-- **PROPRIETARY RIGHTS**. 
+- **PROPRIETARY RIGHTS** 
 
 The Software and all documentation provided with the Software (the "**Documentation**"), and all intellectual property and intellectual property rights (registered or unregistered) underlying and/or related to each of the foregoing, are proprietary products of the Licensor and its licensors, and are protected under national laws and international treaty provisions. Ownership of the Software and the Documentation and all copies, modifications, translations, and merged portions thereof shall at all times remain the sole property of the Licensor and its licensors. 
 
@@ -16,7 +16,7 @@ ANY THIRD PARTY SOFTWARE INCLUDED WITH THE SOFTWARE IS PROVIDED UNDER THE TERMS 
 
 The Software is being distributed by Tech Ember LLC, or any other authorized distributor of the Licensor’s products (the "**Distributor**"). These Distributors are the sole and exclusive owners of all proprietary products provided with the Software and the Documentation, and which are not part of the Software and/or such Documentation or otherwise owned by the Licensor and/or its licensors.  
 
-- **GRANT OF LICENSE**.** **
+- **GRANT OF LICENSE**
 
 Subject to the terms of this License and your full compliance thereof, the Licensor hereby grants you a non-exclusive, non-perpetual, revocable license to download, install and use its Software and to use the Documentation in connection with such use, on the following terms: 
 
@@ -52,7 +52,7 @@ If the aforementioned conditions are not met, the Software may not work, and it 
 
 - You agree that you will not, and will not allow any third party to, (i) copy, sell, license, distribute, transfer, modify, adapt, translate, prepare derivative works from, decompile, reverse engineer, disassemble or otherwise attempt to derive source code from the Software, (ii) take any action to circumvent or defeat the security or content usage rules provided, deployed or enforced by any functionality (including without limitation digital rights management functionality) contained in the Software, (iii) use the Software to access, copy, transfer, transcode or retransmit content in violation of any law or third party rights, or (iv) remove, obscure, or alter Distributor’s or any of its licensors' copyright notices, trademarks, or other proprietary rights notices affixed to or contained within or accessed in conjunction with or through the Software and/or the Documentation. 
 
-- **UPDATES AND SUPPORT**. 
+- **UPDATES AND SUPPORT** 
 
 You are entitled to receive Software and Documentation updates, if and when released by the Licensor, and such updates may include any patches or bug fixes that Licensor’s Distributors makes generally available at www.TechEmber.com or through other website approved by Licensor. Such updates may also be transmitted to you and installed on your device automatically, and you hereby permit such automatic download and installation of such updates. 
 
@@ -60,17 +60,17 @@ It is clarified that any software and/or documentation and/or materials download
 
 All support services (including any customer and/or technical support) with respect to the Software and/or the Documentation, are provided exclusively by the Distributor. 
 
-- **LEGAL COMPLIANCE**.** **
+- **LEGAL COMPLIANCE**
 
 By downloading and/or the Software, you represent and warrant that you are 18 years of age or older (or have obtained verifiable parental consent) and you agree to be bound by this License and that your use of the Software does not violate any applicable law or regulation. Your use of the Software may be terminated without warning if the Licensor believes, in its sole discretion, that you are under the age of 18 years and have not obtained verifiable consent from a parent or legal guardian.  If you are a parent or legal guardian and you provide your consent to your child’s use of the Software, you agree to be bound by this License in respect to your child’s use of the Software and/or the Documentation.
 
 You may not use the Software and/or the Documentation to damage any third party’s computers and/or cellular phone and/or to conduct any malicious activity.
 
-- **TERM**. 
+- **TERM**
 
 This License is effective from your License Key date of purchase and shall remain in force until terminated. This License will immediately and automatically terminate without notice if you fail to comply with any term or condition of this License. You may terminate this License at any time by destroying all copies of the Software and the accompanying Documentation. Your obligations herein and the provisions of Section 6 shall survive any termination or expiration of this License. 
 
-- **LIMITED WARRANTY. **
+- **LIMITED WARRANTY**
     - (a) the Licensor warrants to the original purchaser of a License Key for the Software, that the Software, will perform substantially in accordance with the accompanying Documentation. This Limited Warranty extends for thirty (30) days from the date of purchase. (b) This limited warranty does not apply to any Software that has been altered, damaged, abused, misapplied, or used other than in accordance with this License and any instructions included on the Software and the accompanying Documentation. (c) the Licensor’s entire liability and your exclusive remedy under this limited warranty shall be the repair or replacement of the any Software that fails to conform to this limited warranty or, at Licensor’s option, return of the price paid for the License Key. 
 
 - The Licensor shall have no liability under the foregoing limited warranty unless the Software is returned to a Distributor or its authorized representative, with a copy of your receipt, within the said 30 days warranty period. 
@@ -81,29 +81,29 @@ This License is effective from your License Key date of purchase and shall remai
 
 - THE LIMITED WARRANTY PROVIDED ABOVE GIVES YOU SPECIFIC LEGAL RIGHTS; YOU MAY HAVE OTHERS WHICH VARY FROM STATE TO STATE. 
 
-- **LIMITATION OF LIABILITY**. 
+- **LIMITATION OF LIABILITY** 
 
 IN NO EVENT SHALL THE LICENSOR’S LIABITY FOR ANY LOSS RELATED TO THE SOFTWARE AND/OR THE DOCUMENTATION SHALL EXCEED THE LICENSE KEY FEES ACTUALLY PAID BY YOU FOR THE SOFTWARE. EXCEPT AS PROVIDED UNDER THE LIMITED WARRANTY, NEITHER THE LICENSOR NOT ITS DISTRIBUTORS AND/OR ITS SUPPLIERS SHALL IN ANY EVENT BE LIABLE FOR ANY DAMAGES WHATSOEVER ARISING OUT OF OR RELATED TO THE USE OF OR INABILITY TO USE THE SOFTWARE, INCLUDING BUT NOT LIMITED TO DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTAIAL DAMAGES, AND DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERUPTION, LOSS OF BUSINESS INFORMATION, OR OTHER PECUNIARY LOSS, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, WHETHER SUCH LIABILITY IS BASED ON CONTRACT, TORT, WARRANTY, OR ANY OTHER LEGAL OR EQUITABLE GROUNDS. BECAUSE SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTIAL DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO YOU. 
 
-- **EXPORT CONTROLS**. 
+- **EXPORT CONTROLS** 
 
 Certain uses of the Software by you may be subject to restrictions under U.S. regulations relating to exports and ultimate end users of computer software. You agree to fully comply with all applicable U.S. laws and regulations, including but not limited to the Export Administration Act of 1979 as amended from time to time and any regulations promulgated there under. 
 
-- **U.S. GOVERNMENT RESTRICTED RIGHTS**. 
+- **U.S. GOVERNMENT RESTRICTED RIGHTS** 
 
 If you are acquiring the Software on behalf of any unit or agency of the US Government the following provision applies: It is acknowledged that the Software and the Documentation were developed at private expense and that no part is in the public domain and that the SOFTWARE and Documentation are provided with RESTRICTED RIGHTS. Use, duplication, or disclosure by the Government is subject to restrictions as set forth in subparagraph (c)(1)(ii) of The Rights in Technical Data and Computer Software clause at DFARS 52.227-7013 or subparagraphs (c)(1) and (2) of the Commercial Computer Software-Restricted Rights at 48 CFR 52.227-19, as applicable. Contractor/Manufacturer is K Square Software Development Ltd. 
 
-- **ENTIRE AGREEMENT**. 
+- **ENTIRE AGREEMENT** 
 
 This License contains the entire understanding of the parties with respect to the subject matter hereof and supersedes any proposal or prior written agreement, oral or written, and any other communications between us relating to the subject matter of this License. 
 
-- **GOVERNING LAWS AND JURISDICTION**. 
+- **GOVERNING LAWS AND JURISDICTION** 
 
 This License is governed by the laws of the State of Israel. If any provision of this License is found void or unenforceable, it will not affect the validity of the balance of this License. Distribution of the Software is subject to compliance with all laws, regulations, orders and other restrictions on export from the State of Israel. 
 
 You agree that any claim or dispute you may have against the Licensor or its licensors, and their respective directors, officers, employees and consultants must be resolved by a court located in the central district courts in the State of Israel, and waive any jurisdictional, venue or inconvenient forum objections to such courts.
 
-- **INQUIRIES**. 
+- **INQUIRIES** 
 
 Should you have any questions concerning this License, or if you desire to contact the Distributor, Tech Ember LLC for any reason, please visit: www.TechEmber.com for current contact information. 
 
